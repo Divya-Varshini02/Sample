@@ -5,6 +5,7 @@ public class HelloGit
 	{
 		System.out.println("Hello GIT!!");
                 System.out.println("---Changes after first commit---");
+		System.out.println("Changes after first remote upload");
 
   	}
 }
